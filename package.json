@@ -43,5 +43,6 @@
   },
   "devDependencies": {
     "@metamask/providers": "^14.0.0"
-  }
+  },
+  "homepage": "./"
 }
